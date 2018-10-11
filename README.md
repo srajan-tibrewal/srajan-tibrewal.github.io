@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# List Of Guided Projects Completed ( DataQuest )
 
-You can use the [editor on GitHub](https://github.com/srajan-tibrewal/srajan-tibrewal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## U.S Births - Python Basic Coding Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Gun Deaths In The U.S - Basic Analysis Using Python
 
-### Markdown
+## Exploring Germany's Ebay Car Sales Data- Conclusions Based On Brands And Other Criteria Using Pandas and Numpy - Exploratory Data Analysis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##  Visualizing Earnings Based On College Majors - Using Matplotlib
 
-```markdown
-Syntax highlighted code block
+## Visualizing The Gender Gap in College Degrees - Storytelling  Through Visualization
 
-# Header 1
-## Header 2
-### Header 3
+## Analyzing NYC High School Data - Analysis of SAT scores from New York City Schools And Commenting On Possible Biases Using BaseMap Toolkit
 
-- Bulleted
-- List
+## Survey on Star Wars - Data Cleaning and Analysis 
+ 
+## Predicting Car Prices - Machine Learning Model to predict car prices using Scikit-learn (K-nearest Neighbors implemented) 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srajan-tibrewal/srajan-tibrewal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
