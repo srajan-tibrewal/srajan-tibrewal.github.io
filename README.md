@@ -1,3 +1,3 @@
-# Srajan Tibrewal - Engineering Graduate and Aspiring Data Scientist
+# Srajan Tibrewal
 
-##  Portfolio
+## Data Scientist Portfolio
