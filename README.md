@@ -10,7 +10,7 @@
 
 ## Visualizing The Gender Gap in College Degrees - Storytelling  Through Visualization
 
-## Analyzing NYC High School Data - Analysis of SAT scores from New York City Schools And Commenting On Possible Biases Using BaseMap Toolkit
+## Analyzing NYC High School Data - Analysis of SAT scores from New York City Schools And Commenting On Possible Biases. Used BaseMap Toolkit for Geographical Plotting
 
 ## Survey on Star Wars - Data Cleaning and Analysis 
  
