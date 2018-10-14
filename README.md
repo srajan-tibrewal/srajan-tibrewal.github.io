@@ -16,5 +16,5 @@
  
 ## Predicting Car Prices - Machine Learning Model to predict car prices using Scikit-learn (K-nearest Neighbors implemented) 
 
-
+## Predicting House Sale Prices - Linear Regression implemented with K-fold cross validation
  
