@@ -1,4 +1,4 @@
-# List Of Guided Projects Completed ( DataQuest )
+# List Of Guided Projects Completed 
 
 ## U.S Births - Python Basic Coding Project
 
@@ -18,3 +18,4 @@
 
 ## Predicting House Sale Prices - Linear Regression implemented with K-fold cross validation
  
+## -- And more code (.py files)
