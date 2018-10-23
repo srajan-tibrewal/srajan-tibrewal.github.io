@@ -18,4 +18,4 @@
 
 ## Predicting House Sale Prices - Linear Regression implemented with K-fold cross validation
  
-## -- And more code (.py files)
+## Basic Time Series analysis - Calculating Moving averages, sharp volume changes,price changes, black swan events on NSE 2015-2016 data
