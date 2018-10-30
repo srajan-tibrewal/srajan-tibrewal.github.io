@@ -14,7 +14,7 @@
 
 ## Survey on Star Wars - Data Cleaning and Analysis 
  
-## Querying SQLite from Python 
+## Querying SQLite from Python - Analyzing CIA factbook data
 
 ## Predicting Car Prices - Machine Learning Model to predict car prices using Scikit-learn (K-nearest Neighbors implemented) 
 
