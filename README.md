@@ -1,4 +1,4 @@
-# List Of Guided Projects Completed 
+# Projects and implementations 
 
 ## U.S Births - Python Basic Coding Project
 
