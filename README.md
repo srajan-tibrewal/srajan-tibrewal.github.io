@@ -22,3 +22,5 @@
  
 ## Basic Time Series analysis - Calculating Moving averages, sharp volume changes,price changes, black swan events on NSE 2015-2016 daily level data
 
+## Textual analysis of EDGAR financial statements from companies to SEC - NLP
+
